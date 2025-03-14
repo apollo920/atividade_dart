@@ -53,7 +53,6 @@ class _TelaSorteioState extends State<TelaSorteio> {
       });
     }
   }
-  
 
   @override
   Widget build(BuildContext context) {
